@@ -1,6 +1,6 @@
-# e-commerce-server
+# Hotel Booking App-server
 ## Developed by 
-##### Author - Maxwel Ochieng
+##### Author - Makaveli
 ##### Title - MERN Developer
 ## Technologies
 ***
