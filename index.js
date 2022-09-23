@@ -26,7 +26,7 @@ mongoose.connection.on("disconnected", () => {
 
 //middlewares
 const corsOptions = {
-  origin: "https://spaceseal.netlify.app",
+  origin: "https://hotbookapp.netlify.app/",
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };
